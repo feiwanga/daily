@@ -1,0 +1,183 @@
+{
+  "generated": "2026-02-27T17:21:07.172343+08:00",
+  "source_type": "web",
+  "api_used": "exa-web-search-free",
+  "mcporter_cmd": "/usr/bin/nice -n 10 /usr/bin/taskset -c 0 /home/ubuntu/.npm-global/bin/mcporter",
+  "spawn_mode": "per-topic-batch",
+  "topics_total": 4,
+  "topics_ok": 0,
+  "total_articles": 0,
+  "topics": [
+    {
+      "topic_id": "llm",
+      "status": "empty",
+      "search_required": true,
+      "queries": [
+        "LLM latest news LLM OR large language model OR foundation model -tutorial -how to use",
+        "large language model breakthroughs LLM OR large language model OR foundation model -tutorial -how to use"
+      ],
+      "filters": {
+        "must_include": [
+          "LLM",
+          "large language model",
+          "foundation model",
+          "language model",
+          "大模型"
+        ],
+        "exclude": [
+          "tutorial",
+          "how to use",
+          "beginner guide"
+        ]
+      },
+      "instructions": [
+        "Use exa-web-search-free via mcporter call",
+        "Apply must_include/exclude filters",
+        "Tag matching articles with topic: 'llm'"
+      ],
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-topic-batch",
+          "queries": [
+            "LLM latest news LLM OR large language model OR foundation model -tutorial -how to use",
+            "large language model breakthroughs LLM OR large language model OR foundation model -tutorial -how to use"
+          ],
+          "batched_query": "(LLM latest news LLM OR large language model OR foundation model -tutorial -how to use) OR (large language model breakthroughs LLM OR large language model OR foundation model -tutorial -how to use)",
+          "status": "error",
+          "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}"
+        }
+      ]
+    },
+    {
+      "topic_id": "ai-agent",
+      "status": "empty",
+      "search_required": true,
+      "queries": [
+        "AI Agent latest developments AI agent OR autonomous agent OR agent framework -game agent -travel agent",
+        "autonomous agent framework AI agent OR autonomous agent OR agent framework -game agent -travel agent"
+      ],
+      "filters": {
+        "must_include": [
+          "AI agent",
+          "autonomous agent",
+          "agent framework",
+          "agentic",
+          "multi-agent"
+        ],
+        "exclude": [
+          "game agent",
+          "travel agent"
+        ]
+      },
+      "instructions": [
+        "Use exa-web-search-free via mcporter call",
+        "Apply must_include/exclude filters",
+        "Tag matching articles with topic: 'ai-agent'"
+      ],
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-topic-batch",
+          "queries": [
+            "AI Agent latest developments AI agent OR autonomous agent OR agent framework -game agent -travel agent",
+            "autonomous agent framework AI agent OR autonomous agent OR agent framework -game agent -travel agent"
+          ],
+          "batched_query": "(AI Agent latest developments AI agent OR autonomous agent OR agent framework -game agent -travel agent) OR (autonomous agent framework AI agent OR autonomous agent OR agent framework -game agent -travel agent)",
+          "status": "error",
+          "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}"
+        }
+      ]
+    },
+    {
+      "topic_id": "crypto",
+      "status": "empty",
+      "search_required": true,
+      "queries": [
+        "cryptocurrency bitcoin ethereum latest news crypto OR bitcoin OR ethereum -scam -pump dump",
+        "加密货币最新新闻 crypto OR bitcoin OR ethereum -scam -pump dump"
+      ],
+      "filters": {
+        "must_include": [
+          "crypto",
+          "bitcoin",
+          "ethereum",
+          "blockchain",
+          "DeFi",
+          "NFT",
+          "web3"
+        ],
+        "exclude": [
+          "scam",
+          "pump dump",
+          "get rich quick"
+        ]
+      },
+      "instructions": [
+        "Use exa-web-search-free via mcporter call",
+        "Apply must_include/exclude filters",
+        "Tag matching articles with topic: 'crypto'"
+      ],
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-topic-batch",
+          "queries": [
+            "cryptocurrency bitcoin ethereum latest news crypto OR bitcoin OR ethereum -scam -pump dump",
+            "加密货币最新新闻 crypto OR bitcoin OR ethereum -scam -pump dump"
+          ],
+          "batched_query": "(cryptocurrency bitcoin ethereum latest news crypto OR bitcoin OR ethereum -scam -pump dump) OR (加密货币最新新闻 crypto OR bitcoin OR ethereum -scam -pump dump)",
+          "status": "error",
+          "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}"
+        }
+      ]
+    },
+    {
+      "topic_id": "frontier-tech",
+      "status": "empty",
+      "search_required": true,
+      "queries": [
+        "artificial intelligence breakthroughs breakthrough OR research OR technology -rumor -speculation",
+        "frontier technology latest breakthrough OR research OR technology -rumor -speculation"
+      ],
+      "filters": {
+        "must_include": [
+          "breakthrough",
+          "research",
+          "technology",
+          "innovation",
+          "quantum",
+          "biotech",
+          "robotics"
+        ],
+        "exclude": [
+          "rumor",
+          "speculation",
+          "unverified"
+        ]
+      },
+      "instructions": [
+        "Use exa-web-search-free via mcporter call",
+        "Apply must_include/exclude filters",
+        "Tag matching articles with topic: 'frontier-tech'"
+      ],
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-topic-batch",
+          "queries": [
+            "artificial intelligence breakthroughs breakthrough OR research OR technology -rumor -speculation",
+            "frontier technology latest breakthrough OR research OR technology -rumor -speculation"
+          ],
+          "batched_query": "(artificial intelligence breakthroughs breakthrough OR research OR technology -rumor -speculation) OR (frontier technology latest breakthrough OR research OR technology -rumor -speculation)",
+          "status": "error",
+          "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}"
+        }
+      ]
+    }
+  ]
+}

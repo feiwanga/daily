@@ -1,0 +1,98 @@
+=== Merged Data Summary ===
+Total articles: 229
+Topics: llm, frontier-tech, ai-agent, crypto
+
+=== llm (15 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [3] (5pts) [github] ollama v0.17.4
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.4
+      Snippet: New models - Qwen 3.5: a family of open-source multimodal models that delivers exceptional utility and performance. - LFM 2: LFM2 is a family of hybri
+
+  [4] (5pts) [github] ollama v0.17.3
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.3
+      Snippet: What's Changed Fixed issue where tool calls in the Qwen 3 and Qwen 3.5 model families would not be parsed correctly if emitted during thinking Full Ch
+
+  [5] (5pts) [github] ollama v0.17.2
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.2
+      Snippet: What's Changed Fixed issue where Ollama's app on Windows would crash when a new update has been downloaded Full Changelog**: https://github.com/ollama
+
+=== frontier-tech (42 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [3] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+  [4] (2pts) [rss] 从表格到网络：图分析智能体如何重构工业决策体系 ｜ 技术实践
+      Source: InfoQ 中文
+      Link: https://www.infoq.cn/article/qr0XQAgvL68v0tCQsWIP?utm_source=rss&amp;utm_medium=article
+
+  [5] (2pts) [rss] 赌上 AI 未来，万人团队裁掉近半！前推特 CEO放话：一年后大多数公司都得这么干
+      Source: InfoQ 中文
+      Link: https://www.infoq.cn/article/qfMmsgNWxKT46dfkzlF4?utm_source=rss&amp;utm_medium=article
+
+=== ai-agent (10 articles) ===
+
+  [1] (10pts) [github] openclaw v2026.2.26
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.26
+      Snippet: Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot a
+
+  [2] (8pts) [github] openclaw v2026.2.25
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.25
+      Snippet: Changes - Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flav
+
+  [3] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [4] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+  [5] (2pts) [rss] 反转！吓崩华尔街的AI末日预言报告被证伪，纳斯达克道琼斯都白跌了
+      Source: 量子位 QbitAI
+      Link: https://www.qbitai.com/2026/02/382776.html
+
+=== crypto (18 articles) ===
+
+  [1] (7pts) [github] foundry nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Snippet: Other - chore(ci): unblock ci, fix clippy lint (#13543) by @zerosnacks - refactor(wallets): browser wallet generic Network (#13550) by @mablr Full Cha
+
+  [2] (5pts) [rss] SBI Holdings unveils trust bank-backed JPY stablecoin with Q2 launch target
+      Source: The Block
+      Link: https://www.theblock.co/post/391386/sbi-holdings-startale-jpysc?utm_source=rss&amp;utm_medium=rss
+
+  [3] (5pts) [rss] TeraWulf posts higher revenue, wider loss in 2025 as AI, HPC pivot accelerates
+      Source: The Block
+      Link: https://www.theblock.co/post/391539/terawulf-posts-higher-revenue-wider-loss-in-2025-as-ai-hpc-pivot-accelerates?utm_source=rss&amp;utm_medium=rss
+
+  [4] (5pts) [rss] MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal
+      Source: The Block
+      Link: https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal?utm_source=rss&amp;utm_medium=rss
+
+  [5] (5pts) [rss] Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit s
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says
+

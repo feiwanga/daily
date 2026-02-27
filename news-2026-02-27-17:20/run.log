@@ -1,0 +1,363 @@
+[start] 2026-02-27 17:20:46 +0800
+[run_dir] /home/ubuntu/news/news-2026-02-27-17:20
+[env] GITHUB_TOKEN=set
+[env] MCPORTER_CMD=/usr/bin/nice -n 10 /usr/bin/taskset -c 0 /home/ubuntu/.npm-global/bin/mcporter
+2026-02-27 09:20:46 - DEBUG - Loaded 137 default sources from /home/ubuntu/.openclaw/workspace/skills/tech-news-digest/config/defaults/sources.json
+2026-02-27 09:20:46 - INFO - Loaded 49 enabled RSS sources
+2026-02-27 09:20:46 - INFO - Fetching 49 RSS feeds (window: 36h)
+2026-02-27 09:20:46 - INFO - feedparser not available, using regex parsing
+2026-02-27 09:20:46 - INFO - ⏭ Lil'Log (Lilian Weng): not modified (304)
+2026-02-27 09:20:46 - DEBUG - ✅ Lil'Log (Lilian Weng): 0 articles
+2026-02-27 09:20:46 - INFO - ⏭ Gary Marcus: not modified (304)
+2026-02-27 09:20:46 - DEBUG - ✅ Gary Marcus: 0 articles
+2026-02-27 09:20:46 - DEBUG - ✅ OpenAI Blog: 2 articles
+2026-02-27 09:20:47 - DEBUG - ✅ The Block: 20 articles
+2026-02-27 09:20:47 - INFO - ⏭ Hugging Face Blog: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ CoinDesk: 20 articles
+2026-02-27 09:20:47 - DEBUG - ✅ Hugging Face Blog: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ minimaxir (Max Woolf): not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ minimaxir (Max Woolf): 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ Ars Technica: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Ars Technica: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ TechCrunch: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ TechCrunch: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ The Verge: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ The Verge: 0 articles
+2026-02-27 09:20:47 - DEBUG - ✅ Cointelegraph: 20 articles
+2026-02-27 09:20:47 - INFO - ⏭ Gwern: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Gwern: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ Krebs on Security: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Krebs on Security: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ Sebastian Raschka: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Sebastian Raschka: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ Troy Hunt: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Troy Hunt: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ Mitchell Hashimoto: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Mitchell Hashimoto: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ Geohot: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Geohot: 0 articles
+2026-02-27 09:20:47 - DEBUG - ✅ Daring Fireball: 18 articles
+2026-02-27 09:20:47 - DEBUG - ✅ Decrypt: 20 articles
+2026-02-27 09:20:47 - INFO - ⏭ Vitalik Buterin: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Vitalik Buterin: 0 articles
+2026-02-27 09:20:47 - DEBUG - ✅ Google AI Blog: 4 articles
+2026-02-27 09:20:47 - INFO - ⏭ Simon Willison: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Simon Willison: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ MIT Technology Review: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ MIT Technology Review: 0 articles
+2026-02-27 09:20:47 - DEBUG - ✅ VentureBeat AI: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ 404 Media: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ 404 Media: 0 articles
+2026-02-27 09:20:47 - INFO - ⏭ Paul Graham: not modified (304)
+2026-02-27 09:20:47 - DEBUG - ✅ Paul Graham: 0 articles
+2026-02-27 09:20:48 - INFO - ⏭ ByteByteGo: not modified (304)
+2026-02-27 09:20:48 - DEBUG - ✅ ByteByteGo: 0 articles
+2026-02-27 09:20:48 - DEBUG - ✅ Dwarkesh Patel: 0 articles
+2026-02-27 09:20:48 - DEBUG - ✅ InfoQ 中文: 20 articles
+2026-02-27 09:20:48 - INFO - ⏭ NVIDIA AI Blog: not modified (304)
+2026-02-27 09:20:48 - DEBUG - ✅ NVIDIA AI Blog: 0 articles
+2026-02-27 09:20:48 - DEBUG - ✅ Product Hunt: 20 articles
+2026-02-27 09:20:48 - INFO - ⏭ AI Snake Oil: not modified (304)
+2026-02-27 09:20:48 - DEBUG - ✅ AI Snake Oil: 0 articles
+2026-02-27 09:20:48 - DEBUG - ✅ The Defiant: 12 articles
+2026-02-27 09:20:48 - DEBUG - ✅ r/MachineLearning: 19 articles
+2026-02-27 09:20:48 - DEBUG - ✅ Wired: 18 articles
+2026-02-27 09:20:48 - DEBUG - ✅ 量子位 QbitAI: 10 articles
+2026-02-27 09:20:48 - INFO - ⏭ Hacker News Frontpage: not modified (304)
+2026-02-27 09:20:48 - DEBUG - ✅ Hacker News Frontpage: 0 articles
+2026-02-27 09:20:48 - DEBUG - ✅ Google DeepMind Blog: 1 articles
+2026-02-27 09:20:48 - INFO - ⏭ a16z Crypto: not modified (304)
+2026-02-27 09:20:48 - DEBUG - ✅ a16z Crypto: 0 articles
+2026-02-27 09:20:48 - INFO - ⏭ Ben's Bites: not modified (304)
+2026-02-27 09:20:48 - DEBUG - ✅ Ben's Bites: 0 articles
+2026-02-27 09:20:49 - DEBUG - ✅ antirez: 0 articles
+2026-02-27 09:20:49 - INFO - ⏭ IEEE Spectrum: not modified (304)
+2026-02-27 09:20:49 - DEBUG - ✅ IEEE Spectrum: 0 articles
+2026-02-27 09:20:49 - DEBUG - ✅ 36氪: 0 articles
+2026-02-27 09:20:49 - DEBUG - ✅ 少数派: 10 articles
+2026-02-27 09:20:49 - DEBUG - Attempt 1 failed for Bankless: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif
+2026-02-27 09:20:49 - DEBUG - ✅ 爱范儿: 8 articles
+2026-02-27 09:20:49 - INFO - ⏭ The Decoder: not modified (304)
+2026-02-27 09:20:49 - DEBUG - ✅ The Decoder: 0 articles
+2026-02-27 09:20:50 - DEBUG - ✅ Messari: 2 articles
+2026-02-27 09:20:51 - DEBUG - Attempt 2 failed for Bankless: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif
+2026-02-27 09:20:51 - DEBUG - ❌ Bankless: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certif
+2026-02-27 09:20:54 - DEBUG - ✅ 机器之心 Synced: 0 articles
+2026-02-27 09:20:54 - INFO - ✅ Done: 48/49 feeds ok, 224 articles → /home/ubuntu/news/news-2026-02-27-17:20/rss.json
+[env] GITHUB_FETCH_CMD=/usr/bin/nice -n 10 /usr/bin/taskset -c 0 python3
+2026-02-27 09:20:54 - DEBUG - Loaded 137 default sources from /home/ubuntu/.openclaw/workspace/skills/tech-news-digest/config/defaults/sources.json
+2026-02-27 09:20:54 - INFO - Loaded 27 enabled GitHub sources
+2026-02-27 09:20:54 - INFO - Fetching 27 GitHub repositories (window: 36h)
+2026-02-27 09:20:54 - INFO - 🔍 GITHUB_TOKEN: set
+2026-02-27 09:20:54 - INFO - 🔑 Using GitHub token (5000 req/hr)
+2026-02-27 09:20:55 - INFO - ⏭ Anthropic SDK: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ Anthropic SDK: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ LangChain: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ LangChain: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ LlamaIndex: not modified (304)
+2026-02-27 09:20:55 - INFO - ⏭ OpenAI Python SDK: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ LlamaIndex: 0 releases
+2026-02-27 09:20:55 - DEBUG - ✅ OpenAI Python SDK: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ CrewAI: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ CrewAI: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ AutoGen: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ AutoGen: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ Hugging Face Transformers: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ Hugging Face Transformers: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ PyTorch: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ PyTorch: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ Ethereum EIPs: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ Ethereum EIPs: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ Linux Kernel: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ Linux Kernel: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ go-ethereum (Geth): not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ go-ethereum (Geth): 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ Dify: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ Dify: 0 releases
+2026-02-27 09:20:55 - DEBUG - ✅ vLLM: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ Rust: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ Rust: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ Agno: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ Agno: 0 releases
+2026-02-27 09:20:55 - INFO - ⏭ DeepSeek V3: not modified (304)
+2026-02-27 09:20:55 - DEBUG - ✅ DeepSeek V3: 0 releases
+2026-02-27 09:20:56 - INFO - ⏭ MCP Servers: not modified (304)
+2026-02-27 09:20:56 - DEBUG - ✅ MCP Servers: 0 releases
+2026-02-27 09:20:56 - INFO - ⏭ Meta Llama: not modified (304)
+2026-02-27 09:20:56 - DEBUG - ✅ Meta Llama: 0 releases
+2026-02-27 09:20:56 - DEBUG - ✅ Foundry: 2 releases
+2026-02-27 09:20:56 - INFO - ⏭ Mem0: not modified (304)
+2026-02-27 09:20:56 - DEBUG - ✅ Mem0: 0 releases
+2026-02-27 09:20:56 - INFO - ⏭ OpenViking: not modified (304)
+2026-02-27 09:20:56 - DEBUG - ✅ OpenViking: 0 releases
+2026-02-27 09:20:56 - INFO - ⏭ Cloudflare MoltWorker: not modified (304)
+2026-02-27 09:20:56 - DEBUG - ✅ Cloudflare MoltWorker: 0 releases
+2026-02-27 09:20:56 - INFO - ⏭ HKUDS NanoBot: not modified (304)
+2026-02-27 09:20:56 - DEBUG - ✅ HKUDS NanoBot: 0 releases
+2026-02-27 09:20:56 - DEBUG - ✅ OpenClaw: 4 releases
+2026-02-27 09:20:56 - DEBUG - ✅ Solidity: 0 releases
+2026-02-27 09:20:56 - DEBUG - ✅ Ollama: 3 releases
+2026-02-27 09:20:56 - DEBUG - ✅ Sipeed PicoClaw: 0 releases
+2026-02-27 09:20:56 - INFO - ✅ Done: 27/27 repos ok, 9 releases → /home/ubuntu/news/news-2026-02-27-17:20/github.json
+09:20:56 [DEBUG] Loaded 137 default sources from /home/ubuntu/.openclaw/workspace/skills/tech-news-digest/config/defaults/sources.json
+09:20:56 [INFO] 📡 Fetching 13 subreddits (cutoff: 2026-02-25 21:20 UTC)
+09:20:56 [WARNING] r/artificial is private or quarantined
+09:20:56 [WARNING] r/LocalLLaMA is private or quarantined
+09:20:56 [WARNING] r/CryptoCurrency is private or quarantined
+09:20:56 [WARNING] r/MachineLearning is private or quarantined
+09:20:56 [WARNING] r/ethereum is private or quarantined
+09:20:56 [WARNING] r/ChatGPT is private or quarantined
+09:20:56 [WARNING] r/OpenAI is private or quarantined
+09:20:56 [WARNING] r/singularity is private or quarantined
+09:20:57 [WARNING] r/Bitcoin is private or quarantined
+09:20:57 [WARNING] r/Anthropic is private or quarantined
+09:20:57 [WARNING] r/defi is private or quarantined
+09:20:57 [WARNING] r/programming is private or quarantined
+09:20:57 [WARNING] r/ExperiencedDevs is private or quarantined
+09:20:57 [INFO] ✅ Fetched 0/13 subreddits, 0 posts
+Output: /home/ubuntu/news/news-2026-02-27-17:20/reddit.json
+[reddit] total_posts=0, switching to Exa fallback
+written: /home/ubuntu/news/news-2026-02-27-17:20/reddit-exa.json | subreddits_ok=0/13 total_posts=0
+[reddit] exa fallback returned 0 posts, keep original reddit.json
+written: /home/ubuntu/news/news-2026-02-27-17:20/web-exa.json | topics_ok=0/4 total_articles=0
+2026-02-27 09:21:07 - INFO - Loaded sources - RSS: 224, Twitter: 0, Web: 0, GitHub: 9, Reddit: 0
+2026-02-27 09:21:07 - INFO - Total articles collected: 233
+2026-02-27 09:21:07 - DEBUG - Merged 2 sources for: 'Nano Banana 2: Combining Pro capabilities with lig...'
+2026-02-27 09:21:07 - DEBUG - Merged 2 sources for: 'openclaw v2026.2.26...'
+2026-02-27 09:21:07 - DEBUG - Merged 2 sources for: 'openclaw v2026.2.25...'
+2026-02-27 09:21:07 - DEBUG - Merged 2 sources for: 'foundry nightly-0cb553dcbded54464433cbc6fadd187ccd...'
+2026-02-27 09:21:07 - INFO - After merging multi-source: 229
+2026-02-27 09:21:07 - INFO - Deduplication: 229 → 229 articles
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - INFO - Domain limits (llm): 38 → 15
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping infoq.cn article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping producthunt.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping sspai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping sspai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping sspai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping ifanr.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping reddit.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping wired.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping sspai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping sspai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping sspai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping sspai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping ifanr.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping ifanr.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping ifanr.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping ifanr.com article in topic
+2026-02-27 09:21:07 - INFO - Domain limits (frontier-tech): 119 → 42
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping qbitai.com article in topic
+2026-02-27 09:21:07 - INFO - Domain limits (ai-agent): 17 → 10
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping theblock.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping coindesk.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping cointelegraph.com article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping decrypt.co article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - DEBUG - Domain limit (3): skipping thedefiant.io article in topic
+2026-02-27 09:21:07 - INFO - Domain limits (crypto): 95 → 18
+2026-02-27 09:21:07 - INFO - ✅ Merged and scored articles:
+2026-02-27 09:21:07 - INFO -    Input: 233 articles
+2026-02-27 09:21:07 - INFO -    Output: 229 articles across 4 topics
+2026-02-27 09:21:07 - INFO -    File: /home/ubuntu/news/news-2026-02-27-17:20/merged.json
+[done] 2026-02-27 17:21:30 +0800
