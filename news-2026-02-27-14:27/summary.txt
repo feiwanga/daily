@@ -1,0 +1,99 @@
+=== Merged Data Summary ===
+Total articles: 214
+Topics: llm, frontier-tech, ai-agent, crypto
+
+=== llm (16 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [3] (5pts) [github] ollama v0.17.4
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.4
+      Snippet: New models - Qwen 3.5: a family of open-source multimodal models that delivers exceptional utility and performance. - LFM 2: LFM2 is a family of hybri
+
+  [4] (5pts) [github] ollama v0.17.3
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.3
+      Snippet: What's Changed Fixed issue where tool calls in the Qwen 3 and Qwen 3.5 model families would not be parsed correctly if emitted during thinking Full Ch
+
+  [5] (5pts) [github] ollama v0.17.2
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.2
+      Snippet: What's Changed Fixed issue where Ollama's app on Windows would crash when a new update has been downloaded Full Changelog**: https://github.com/ollama
+
+=== frontier-tech (43 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [3] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+  [4] (2pts) [rss] RankingSuperior
+      Source: Product Hunt
+      Link: https://www.producthunt.com/products/rankingsuperior
+
+  [5] (2pts) [rss] CodeWords UI
+      Source: Product Hunt
+      Link: https://www.producthunt.com/products/codewords
+
+=== ai-agent (11 articles) ===
+
+  [1] (10pts) [github] openclaw v2026.2.26
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.26
+      Snippet: Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot a
+
+  [2] (8pts) [github] openclaw v2026.2.25
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.25
+      Snippet: Changes - Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flav
+
+  [3] (8pts) [github] openclaw v2026.2.24
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.24
+      Snippet: Changes - Auto-reply/Abort shortcuts: expand standalone stop phrases (stop openclaw, stop action, stop run, stop agent, please stop, and related varia
+
+  [4] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [5] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+=== crypto (15 articles) ===
+
+  [1] (7pts) [github] foundry nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Snippet: Other - chore(ci): unblock ci, fix clippy lint (#13543) by @zerosnacks - refactor(wallets): browser wallet generic Network (#13550) by @mablr Full Cha
+
+  [2] (5pts) [rss] Polymarket bettors appear to have insider-traded on a market designed to catch insider traders
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/polymarket-bettors-appear-to-have-insider-traded-on-a-market-designed-to-catch-insider-traders
+
+  [3] (5pts) [rss] Bitcoin slides Friday as risk-off mood persists, but majors hold weekly gains
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains
+
+  [4] (5pts) [rss] Analysis: Block’s retreat to 2019 scale could be a hint of deeper shifts in payments economics
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/analysis-block-s-retreat-to-2019-scale-underscores-how-stablecoins-are-pressuring-payment-margins
+
+  [5] (2pts) [rss] Elizabeth Warren, OCC Chief Spar Over Trump-Linked Crypto Bank Bid
+      Source: Decrypt
+      Link: https://decrypt.co/359364/elizabeth-warren-occ-chief-spar-over-trump-linked-crypto-bank-bid
+

@@ -1,0 +1,551 @@
+{
+  "generated": "2026-02-27T06:27:53.767151+00:00",
+  "source_type": "github",
+  "defaults_dir": "/home/ubuntu/.openclaw/workspace/skills/tech-news-digest/config/defaults",
+  "config_dir": null,
+  "hours": 72,
+  "github_token_used": true,
+  "sources_total": 27,
+  "sources_ok": 27,
+  "total_articles": 15,
+  "sources": [
+    {
+      "source_id": "openclaw-github",
+      "source_type": "github",
+      "name": "OpenClaw",
+      "repo": "openclaw/openclaw",
+      "priority": true,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "count": 6,
+      "articles": [
+        {
+          "title": "openclaw v2026.2.26",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26",
+          "date": "2026-02-27T00:01:43+00:00",
+          "summary": "Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot activation, strict secrets apply target-path...",
+          "topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.2.26-beta.1",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.26-beta.1",
+          "date": "2026-02-26T22:38:55+00:00",
+          "summary": "Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot activation, strict secrets apply target-path...",
+          "topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.2.25",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.25",
+          "date": "2026-02-26T04:17:56+00:00",
+          "summary": "Changes - Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flavored markdown behavior. (#26079) Thanks @obviyus....",
+          "topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.2.25-beta.1",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.25-beta.1",
+          "date": "2026-02-26T03:55:38+00:00",
+          "summary": "Changes - Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flavored markdown behavior. (#26079) Thanks @obviyus....",
+          "topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.2.24",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.24",
+          "date": "2026-02-25T03:31:17+00:00",
+          "summary": "Changes - Auto-reply/Abort shortcuts: expand standalone stop phrases (stop openclaw, stop action, stop run, stop agent, please stop, and related variants), accept trailing punctuation (for example...",
+          "topics": [
+            "ai-agent"
+          ]
+        },
+        {
+          "title": "openclaw v2026.2.24-beta.1",
+          "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.24-beta.1",
+          "date": "2026-02-25T03:01:17+00:00",
+          "summary": "Changes - Auto-reply/Abort shortcuts: expand standalone stop phrases (stop openclaw, stop action, stop run, stop agent, please stop, and related variants), accept trailing punctuation (for example...",
+          "topics": [
+            "ai-agent"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "ollama-github",
+      "source_type": "github",
+      "name": "Ollama",
+      "repo": "ollama/ollama",
+      "priority": true,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "count": 4,
+      "articles": [
+        {
+          "title": "ollama v0.17.4",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.17.4",
+          "date": "2026-02-27T03:47:22+00:00",
+          "summary": "New models - Qwen 3.5: a family of open-source multimodal models that delivers exceptional utility and performance. - LFM 2: LFM2 is a family of hybrid models designed for on-device deployment....",
+          "topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.17.3",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.17.3",
+          "date": "2026-02-27T02:21:12+00:00",
+          "summary": "What's Changed Fixed issue where tool calls in the Qwen 3 and Qwen 3.5 model families would not be parsed correctly if emitted during thinking Full Changelog**: https://github.com/ollama/ollama/compar...",
+          "topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.17.2",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.17.2",
+          "date": "2026-02-26T22:41:34+00:00",
+          "summary": "What's Changed Fixed issue where Ollama's app on Windows would crash when a new update has been downloaded Full Changelog**: https://github.com/ollama/ollama/compare/v0.17.1...v0.17.2",
+          "topics": [
+            "llm"
+          ]
+        },
+        {
+          "title": "ollama v0.17.1",
+          "link": "https://github.com/ollama/ollama/releases/tag/v0.17.1",
+          "date": "2026-02-24T15:00:28+00:00",
+          "summary": "What's Changed Nemotron architecture support in Ollama's engine MLX engine now has improved memory usage Ollama's app will now allow models that support tools to use web search capabilities Improved...",
+          "topics": [
+            "llm"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "transformers-github",
+      "source_type": "github",
+      "name": "Hugging Face Transformers",
+      "repo": "huggingface/transformers",
+      "priority": true,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "langchain-github",
+      "source_type": "github",
+      "name": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "priority": true,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "go-ethereum-github",
+      "source_type": "github",
+      "name": "go-ethereum (Geth)",
+      "repo": "ethereum/go-ethereum",
+      "priority": true,
+      "topics": [
+        "crypto"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "eips-github",
+      "source_type": "github",
+      "name": "Ethereum EIPs",
+      "repo": "ethereum/EIPs",
+      "priority": true,
+      "topics": [
+        "crypto"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "agno-github",
+      "source_type": "github",
+      "name": "Agno",
+      "repo": "agno-agi/agno",
+      "priority": true,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "github-mcp-servers",
+      "source_type": "github",
+      "name": "MCP Servers",
+      "repo": "modelcontextprotocol/servers",
+      "priority": true,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "github-meta-llama",
+      "source_type": "github",
+      "name": "Meta Llama",
+      "repo": "meta-llama/llama-models",
+      "priority": true,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "github-deepseek-v3",
+      "source_type": "github",
+      "name": "DeepSeek V3",
+      "repo": "deepseek-ai/DeepSeek-V3",
+      "priority": true,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "pytorch-github",
+      "source_type": "github",
+      "name": "PyTorch",
+      "repo": "pytorch/pytorch",
+      "priority": true,
+      "topics": [
+        "llm",
+        "frontier-tech"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "foundry-github",
+      "source_type": "github",
+      "name": "Foundry",
+      "repo": "foundry-rs/foundry",
+      "priority": false,
+      "topics": [
+        "crypto"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "count": 4,
+      "articles": [
+        {
+          "title": "foundry nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4",
+          "link": "https://github.com/foundry-rs/foundry/releases/tag/nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4",
+          "date": "2026-02-27T06:21:22+00:00",
+          "summary": "Other - chore(ci): unblock ci, fix clippy lint (#13543) by @zerosnacks - refactor(wallets): browser wallet generic Network (#13550) by @mablr Full Changelog: https://github.com/foundry-rs/foundry/comp...",
+          "topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "foundry nightly-b1c38a0db3bba8b7672d1623d2326f33caad038b",
+          "link": "https://github.com/foundry-rs/foundry/releases/tag/nightly-b1c38a0db3bba8b7672d1623d2326f33caad038b",
+          "date": "2026-02-26T06:25:03+00:00",
+          "summary": "Other - fix(wallets): use turnkey_unsupported() instead of hardcoded error (#13535) by @zeroprooff - chore(deps): bump taiki-e/install-action from 2.68.8 to 2.68.9 (#13534) by @dependabot[bot] -...",
+          "topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "foundry nightly-970f6f67dcc76caf52989bb1994b77a216084e91",
+          "link": "https://github.com/foundry-rs/foundry/releases/tag/nightly-970f6f67dcc76caf52989bb1994b77a216084e91",
+          "date": "2026-02-25T06:28:09+00:00",
+          "summary": "Other - ci: ignore softprops/action-gh-release in dependabot (#13528) by @gakonst - chore(deps): bump DeterminateSystems/determinate-nix-action from 3.16.1 to 3.16.3 (#13529) by @dependabot[bot] -...",
+          "topics": [
+            "crypto"
+          ]
+        },
+        {
+          "title": "foundry nightly-d7fdcddf13c331392e7548d913c51331786151ec",
+          "link": "https://github.com/foundry-rs/foundry/releases/tag/nightly-d7fdcddf13c331392e7548d913c51331786151ec",
+          "date": "2026-02-24T08:37:06+00:00",
+          "summary": "Other - ci(release): revert action-gh-release to v2.4.2 (#13527) by @gakonst Full Changelog: https://github.com/foundry-rs/foundry/compare/nightly...nightly-d7fdcddf13c331392e7548d913c51331786151ec",
+          "topics": [
+            "crypto"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "vllm-github",
+      "source_type": "github",
+      "name": "vLLM",
+      "repo": "vllm-project/vllm",
+      "priority": false,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "count": 1,
+      "articles": [
+        {
+          "title": "vllm v0.16.0",
+          "link": "https://github.com/vllm-project/vllm/releases/tag/v0.16.0",
+          "date": "2026-02-25T19:58:49+00:00",
+          "summary": "vLLM v0.16.0 Please note that this release was branch cut on Feb 8, so any features added to vLLM after that date is not included. Highlights This release features 440 commits from 203 contributors...",
+          "topics": [
+            "llm"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "anthropic-sdk-github",
+      "source_type": "github",
+      "name": "Anthropic SDK",
+      "repo": "anthropics/anthropic-sdk-python",
+      "priority": false,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "crewai-github",
+      "source_type": "github",
+      "name": "CrewAI",
+      "repo": "crewAIInc/crewAI",
+      "priority": false,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "autogen-github",
+      "source_type": "github",
+      "name": "AutoGen",
+      "repo": "microsoft/autogen",
+      "priority": false,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "llamaindex-github",
+      "source_type": "github",
+      "name": "LlamaIndex",
+      "repo": "run-llama/llama_index",
+      "priority": false,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "openai-python-github",
+      "source_type": "github",
+      "name": "OpenAI Python SDK",
+      "repo": "openai/openai-python",
+      "priority": false,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "dify-github",
+      "source_type": "github",
+      "name": "Dify",
+      "repo": "langgenius/dify",
+      "priority": false,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "linux-github",
+      "source_type": "github",
+      "name": "Linux Kernel",
+      "repo": "torvalds/linux",
+      "priority": false,
+      "topics": [
+        "frontier-tech"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "rust-github",
+      "source_type": "github",
+      "name": "Rust",
+      "repo": "rust-lang/rust",
+      "priority": false,
+      "topics": [
+        "frontier-tech"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "mem0-github",
+      "source_type": "github",
+      "name": "Mem0",
+      "repo": "mem0ai/mem0",
+      "priority": false,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "openviking-github",
+      "source_type": "github",
+      "name": "OpenViking",
+      "repo": "volcengine/OpenViking",
+      "priority": false,
+      "topics": [
+        "llm"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "moltworker-github",
+      "source_type": "github",
+      "name": "Cloudflare MoltWorker",
+      "repo": "cloudflare/moltworker",
+      "priority": false,
+      "topics": [
+        "frontier-tech"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "nanobot-github",
+      "source_type": "github",
+      "name": "HKUDS NanoBot",
+      "repo": "HKUDS/nanobot",
+      "priority": false,
+      "topics": [
+        "ai-agent"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "not_modified": true,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "solidity-github",
+      "source_type": "github",
+      "name": "Solidity",
+      "repo": "ethereum/solidity",
+      "priority": false,
+      "topics": [
+        "crypto"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "count": 0,
+      "articles": []
+    },
+    {
+      "source_id": "picoclaw-github",
+      "source_type": "github",
+      "name": "Sipeed PicoClaw",
+      "repo": "sipeed/picoclaw",
+      "priority": false,
+      "topics": [
+        "frontier-tech"
+      ],
+      "status": "ok",
+      "attempts": 1,
+      "count": 0,
+      "articles": []
+    }
+  ]
+}
