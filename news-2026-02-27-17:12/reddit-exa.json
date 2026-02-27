@@ -1,0 +1,250 @@
+{
+  "source": "reddit",
+  "fetched_at": "2026-02-27T09:13:10.286596+00:00",
+  "defaults_dir": "/home/ubuntu/.openclaw/workspace/skills/tech-news-digest/config/defaults",
+  "config_dir": null,
+  "hours": 36,
+  "cutoff": "2026-02-25T21:13:03.020707+00:00",
+  "subreddits_total": 13,
+  "subreddits_ok": 0,
+  "total_posts": 0,
+  "subreddits": [
+    {
+      "source_id": "reddit-machinelearning",
+      "source_type": "reddit",
+      "name": "r/MachineLearning",
+      "subreddit": "MachineLearning",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/MachineLearning/comments (\"llm\" OR \"ai agent\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-localllama",
+      "source_type": "reddit",
+      "name": "r/LocalLLaMA",
+      "subreddit": "LocalLLaMA",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/LocalLLaMA/comments (\"llm\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-cryptocurrency",
+      "source_type": "reddit",
+      "name": "r/CryptoCurrency",
+      "subreddit": "CryptoCurrency",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/CryptoCurrency/comments (\"crypto\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-artificial",
+      "source_type": "reddit",
+      "name": "r/artificial",
+      "subreddit": "artificial",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/artificial/comments (\"llm\" OR \"ai agent\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-ethereum",
+      "source_type": "reddit",
+      "name": "r/ethereum",
+      "subreddit": "ethereum",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/ethereum/comments (\"crypto\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-chatgpt",
+      "source_type": "reddit",
+      "name": "r/ChatGPT",
+      "subreddit": "ChatGPT",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/ChatGPT/comments (\"llm\" OR \"ai agent\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-singularity",
+      "source_type": "reddit",
+      "name": "r/singularity",
+      "subreddit": "singularity",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/singularity/comments (\"llm\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-openai",
+      "source_type": "reddit",
+      "name": "r/OpenAI",
+      "subreddit": "OpenAI",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/OpenAI/comments (\"llm\" OR \"ai agent\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-bitcoin",
+      "source_type": "reddit",
+      "name": "r/Bitcoin",
+      "subreddit": "Bitcoin",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/Bitcoin/comments (\"crypto\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-programming",
+      "source_type": "reddit",
+      "name": "r/programming",
+      "subreddit": "programming",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/programming/comments (\"llm\" OR \"ai agent\" OR \"crypto\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-anthropic",
+      "source_type": "reddit",
+      "name": "r/Anthropic",
+      "subreddit": "Anthropic",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/Anthropic/comments (\"llm\" OR \"ai agent\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-defi",
+      "source_type": "reddit",
+      "name": "r/defi",
+      "subreddit": "defi",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/defi/comments (\"crypto\")",
+          "status": "error"
+        }
+      ]
+    },
+    {
+      "source_id": "reddit-experienceddevs",
+      "source_type": "reddit",
+      "name": "r/ExperiencedDevs",
+      "subreddit": "ExperiencedDevs",
+      "status": "error",
+      "error": "[mcporter] ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\nError: ENOENT: no such file or directory, open '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n    at async open (node:internal/fs/promises:636:25)\n    at async Object.readFile (node:internal/fs/promises:1235:14)\n    at async readConfigFile (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:150:24)\n    at async loadConfigLayers (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:101:24)\n    at async loadServerDefinitions (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/config.js:13:20)\n    at async createRuntime (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/runtime.js:26:10)\n    at async runCli (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:107:25)\n    at async main (file:///home/ubuntu/.npm-global/lib/node_modules/mcporter/dist/cli.js:201:5) {\n  errno: -2,\n  code: 'ENOENT',\n  syscall: 'open',\n  path: '/home/ubuntu/.openclaw/workspace/config/mcporter.json'\n}",
+      "attempts": 1,
+      "count": 0,
+      "articles": [],
+      "query_runs": [
+        {
+          "mode": "per-subreddit-single-query",
+          "query": "site:reddit.com/r/ExperiencedDevs/comments (\"llm\" OR \"ai agent\")",
+          "status": "error"
+        }
+      ]
+    }
+  ],
+  "api_used": "exa-web-search-free",
+  "mcporter_cmd": "/usr/bin/nice -n 10 /usr/bin/taskset -c 0 /home/ubuntu/.npm-global/bin/mcporter",
+  "spawn_mode": "per-subreddit-single-query"
+}

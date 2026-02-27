@@ -1,0 +1,98 @@
+=== Merged Data Summary ===
+Total articles: 250
+Topics: llm, frontier-tech, ai-agent, crypto
+
+=== llm (18 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [3] (5pts) [github] ollama v0.17.4
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.4
+      Snippet: New models - Qwen 3.5: a family of open-source multimodal models that delivers exceptional utility and performance. - LFM 2: LFM2 is a family of hybri
+
+  [4] (5pts) [github] ollama v0.17.3
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.3
+      Snippet: What's Changed Fixed issue where tool calls in the Qwen 3 and Qwen 3.5 model families would not be parsed correctly if emitted during thinking Full Ch
+
+  [5] (5pts) [github] ollama v0.17.2
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.2
+      Snippet: What's Changed Fixed issue where Ollama's app on Windows would crash when a new update has been downloaded Full Changelog**: https://github.com/ollama
+
+=== frontier-tech (66 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA
+      Source: Hacker News Frontpage
+      Link: https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer
+
+  [3] (5pts) [rss] The normalization of corruption in organizations (2003) [pdf]
+      Source: Hacker News Frontpage
+      Link: https://gwern.net/doc/sociology/2003-ashforth.pdf
+
+  [4] (5pts) [rss] Dear Time Lords: Freeze Computers in 1993
+      Source: Hacker News Frontpage
+      Link: https://graydon2.dreamwidth.org/322461.html
+
+  [5] (5pts) [rss] The Hunt for Dark Breakfast
+      Source: Hacker News Frontpage
+      Link: https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/
+
+=== ai-agent (13 articles) ===
+
+  [1] (10pts) [github] openclaw v2026.2.26
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.26
+      Snippet: Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot a
+
+  [2] (8pts) [github] openclaw v2026.2.25
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.25
+      Snippet: Changes - Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flav
+
+  [3] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [4] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+  [5] (2pts) [rss] 何恺明团队新作GeoPT，全新预训练范式让模型自学真实物理规律
+      Source: 量子位 QbitAI
+      Link: https://www.qbitai.com/2026/02/382888.html
+
+=== crypto (15 articles) ===
+
+  [1] (7pts) [github] foundry nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Snippet: Other - chore(ci): unblock ci, fix clippy lint (#13543) by @zerosnacks - refactor(wallets): browser wallet generic Network (#13550) by @mablr Full Cha
+
+  [2] (5pts) [rss] Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit s
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says
+
+  [3] (5pts) [rss] Polymarket bettors appear to have insider-traded on a market designed to catch insider traders
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/polymarket-bettors-appear-to-have-insider-traded-on-a-market-designed-to-catch-insider-traders
+
+  [4] (5pts) [rss] Bitcoin slides Friday as risk-off mood persists, but majors hold weekly gains
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains
+
+  [5] (2pts) [rss] Elizabeth Warren, OCC Chief Spar Over Trump-Linked Crypto Bank Bid
+      Source: Decrypt
+      Link: https://decrypt.co/359364/elizabeth-warren-occ-chief-spar-over-trump-linked-crypto-bank-bid
+
