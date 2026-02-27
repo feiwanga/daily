@@ -1,0 +1,98 @@
+=== Merged Data Summary ===
+Total articles: 192
+Topics: ai-agent, crypto, llm, frontier-tech
+
+=== ai-agent (7 articles) ===
+
+  [1] (10pts) [github] openclaw v2026.2.26
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.26
+      Snippet: Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot a
+
+  [2] (8pts) [github] openclaw v2026.2.25
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.25
+      Snippet: Changes - Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flav
+
+  [3] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [4] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+  [5] (2pts) [rss] Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.
+      Source: Google AI Blog
+      Link: https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/
+
+=== crypto (15 articles) ===
+
+  [1] (7pts) [github] foundry nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Snippet: Other - chore(ci): unblock ci, fix clippy lint (#13543) by @zerosnacks - refactor(wallets): browser wallet generic Network (#13550) by @mablr Full Cha
+
+  [2] (5pts) [rss] Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit s
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says
+
+  [3] (5pts) [rss] Polymarket bettors appear to have insider-traded on a market designed to catch insider traders
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/polymarket-bettors-appear-to-have-insider-traded-on-a-market-designed-to-catch-insider-traders
+
+  [4] (5pts) [rss] Bitcoin slides Friday as risk-off mood persists, but majors hold weekly gains
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains
+
+  [5] (2pts) [rss] Bitcoin miner MARA posts $1.7B quarterly loss on BTC slump
+      Source: Cointelegraph
+      Link: https://cointelegraph.com/news/marathon-posts-1-7b-quarterly-loss-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+=== llm (11 articles) ===
+
+  [1] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [2] (5pts) [github] ollama v0.17.4
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.4
+      Snippet: New models - Qwen 3.5: a family of open-source multimodal models that delivers exceptional utility and performance. - LFM 2: LFM2 is a family of hybri
+
+  [3] (5pts) [github] ollama v0.17.3
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.3
+      Snippet: What's Changed Fixed issue where tool calls in the Qwen 3 and Qwen 3.5 model families would not be parsed correctly if emitted during thinking Full Ch
+
+  [4] (5pts) [github] ollama v0.17.2
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.2
+      Snippet: What's Changed Fixed issue where Ollama's app on Windows would crash when a new update has been downloaded Full Changelog**: https://github.com/ollama
+
+  [5] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+=== frontier-tech (38 articles) ===
+
+  [1] (5pts) [rss] Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting
+      Source: OpenAI Blog
+      Link: https://openai.com/index/pacific-northwest-national-laboratory
+
+  [2] (3pts) [rss] OpenAI Codex and Figma launch seamless code-to-design experience
+      Source: OpenAI Blog
+      Link: https://openai.com/index/figma-partnership
+
+  [3] (2pts) [rss] 史上最“疯狂”高中：没有老师、全靠AI？全员入学定创业项目，目标是成为领域顶尖专家
+      Source: InfoQ 中文
+      Link: https://www.infoq.cn/article/6GH34NaPexIyCGdeIoGC?utm_source=rss&amp;utm_medium=article
+
+  [4] (2pts) [rss] 金融数据库国产化实践：从能用到好用，腾讯云 TDSQL 成功案例精选
+      Source: InfoQ 中文
+      Link: https://www.infoq.cn/minibook/di5R0iB6ZPPidKTdBRmS?utm_source=rss&amp;utm_medium=article
+
+  [5] (2pts) [rss] 华为首次发布智能体编程平台“码道”：不是拼生成量，而是在百万行 Java、长周期维护与高可靠中运行
+      Source: InfoQ 中文
+      Link: https://www.infoq.cn/article/H9C1UYwZUOhemxTDphqY?utm_source=rss&amp;utm_medium=article
+
