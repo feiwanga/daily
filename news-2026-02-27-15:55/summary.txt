@@ -1,0 +1,96 @@
+=== Merged Data Summary ===
+Total articles: 262
+Topics: llm, frontier-tech, ai-agent, crypto
+
+=== llm (19 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Finding value with AI and Industry 5.0 transformation
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/
+
+  [3] (5pts) [rss] The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/
+
+  [4] (5pts) [rss] This company claims a battery breakthrough. Now they need to prove it.
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/
+
+  [5] (5pts) [rss] Historic statement from Dario Amodei
+      Source: Gary Marcus
+      Link: https://garymarcus.substack.com/p/historic-statement-from-dario-amodei
+
+=== frontier-tech (62 articles) ===
+
+  [1] (10pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [2] (5pts) [rss] Finding value with AI and Industry 5.0 transformation
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/
+
+  [3] (5pts) [rss] The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/
+
+  [4] (5pts) [rss] This company claims a battery breakthrough. Now they need to prove it.
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/
+
+  [5] (5pts) [rss] Historic statement from Dario Amodei
+      Source: Gary Marcus
+      Link: https://garymarcus.substack.com/p/historic-statement-from-dario-amodei
+
+=== ai-agent (12 articles) ===
+
+  [1] (10pts) [github] openclaw v2026.2.26
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.26
+      Snippet: Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot a
+
+  [2] (8pts) [github] openclaw v2026.2.25
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.25
+      Snippet: Changes - Android/Chat: improve streaming delivery handling and markdown rendering quality in the native Android chat UI, including better GitHub-flav
+
+  [3] (8pts) [github] openclaw v2026.2.24
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.24
+      Snippet: Changes - Auto-reply/Abort shortcuts: expand standalone stop phrases (stop openclaw, stop action, stop run, stop agent, please stop, and related varia
+
+  [4] (5pts) [rss] Finding value with AI and Industry 5.0 transformation
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/
+
+  [5] (5pts) [rss] The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/
+
+=== crypto (15 articles) ===
+
+  [1] (7pts) [github] foundry nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-0cb553dcbded54464433cbc6fadd187ccd740ee4
+      Snippet: Other - chore(ci): unblock ci, fix clippy lint (#13543) by @zerosnacks - refactor(wallets): browser wallet generic Network (#13550) by @mablr Full Cha
+
+  [2] (5pts) [rss] Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit s
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says
+
+  [3] (5pts) [rss] Polymarket bettors appear to have insider-traded on a market designed to catch insider traders
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/polymarket-bettors-appear-to-have-insider-traded-on-a-market-designed-to-catch-insider-traders
+
+  [4] (5pts) [rss] Bitcoin slides Friday as risk-off mood persists, but majors hold weekly gains
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains
+
+  [5] (2pts) [rss] XRPL Foundation patches ‘critical’ flaw that almost made it to mainnet
+      Source: Cointelegraph
+      Link: https://cointelegraph.com/news/ai-tool-and-security-engineer-catch-critical-xrp-ledger-bug-before-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
