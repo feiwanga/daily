@@ -1,0 +1,94 @@
+=== Merged Data Summary ===
+Total articles: 257
+Topics: crypto, frontier-tech, llm, ai-agent
+
+=== crypto (16 articles) ===
+
+  [1] (7pts) [github] foundry nightly-6628501ef5b68182bc87617c329f7ab2a286cf76
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-6628501ef5b68182bc87617c329f7ab2a286cf76
+      Snippet: Other - fix(anvil): use individual tx gas instead of cumulative in fee history (#13552) by @zeroprooff - fix(anvil): clear tx pool on anvil_reset (#13
+
+  [2] (5pts) [rss] Bitcoin sets up potential short squeeze as funding plunges to -6%
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/28/bitcoin-sets-up-potential-short-squeeze-as-funding-plunges-to-6
+
+  [3] (5pts) [rss] Bitcoin could see further downside risks as Iran attacks U.S. bases across Middle East
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/28/bitcoin-could-see-further-downside-risks-as-iran-attacks-u-s-bases-across-middle-east
+
+  [4] (5pts) [rss] Oil-linked futures on Hyperliquid surge 5% after U.S.-Israel strike on Iran
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/02/28/oil-linked-futures-on-hyperliquid-surge-5-after-u-s-israel-strike-on-iran
+
+  [5] (2pts) [rss] Tether froze $4.2B in tokens tied to illicit activity in 3 years: Report
+      Source: Cointelegraph
+      Link: https://cointelegraph.com/news/tether-freezes-4-2b-usdt-illicit-activity-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+=== frontier-tech (60 articles) ===
+
+  [1] (5pts) [rss] OpenAI – How to delete your account
+      Source: Hacker News Frontpage
+      Link: https://help.openai.com/en/articles/6378407-how-to-delete-your-account
+
+  [2] (5pts) [rss] Unsloth Dynamic 2.0 GGUFs
+      Source: Hacker News Frontpage
+      Link: https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs
+
+  [3] (5pts) [rss] Inferring car movement patterns from passive TPMS measurements
+      Source: Hacker News Frontpage
+      Link: https://dspace.networks.imdea.org/handle/20.500.12761/2011
+
+  [4] (5pts) [rss] US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway
+      Source: Hacker News Frontpage
+      Link: https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk
+
+  [5] (5pts) [rss] Rust is just a tool
+      Source: Hacker News Frontpage
+      Link: https://lewiscampbell.tech/blog/260204.html
+
+=== llm (17 articles) ===
+
+  [1] (5pts) [rss] Did Trump just overplay his hand?
+      Source: Gary Marcus
+      Link: https://garymarcus.substack.com/p/did-trump-just-overplay-his-hand
+
+  [2] (5pts) [rss] Does OpenAI’s new financing make sense?
+      Source: Gary Marcus
+      Link: https://garymarcus.substack.com/p/does-openais-new-financing-make-sense
+
+  [3] (3pts) [rss] Joint Statement from OpenAI and Microsoft
+      Source: OpenAI Blog
+      Link: https://openai.com/index/continuing-microsoft-partnership
+
+  [4] (3pts) [rss] Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock
+      Source: OpenAI Blog
+      Link: https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
+
+  [5] (3pts) [rss] Scaling AI for everyone
+      Source: OpenAI Blog
+      Link: https://openai.com/index/scaling-ai-for-everyone
+
+=== ai-agent (12 articles) ===
+
+  [1] (3pts) [rss] Joint Statement from OpenAI and Microsoft
+      Source: OpenAI Blog
+      Link: https://openai.com/index/continuing-microsoft-partnership
+
+  [2] (3pts) [rss] Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock
+      Source: OpenAI Blog
+      Link: https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
+
+  [3] (3pts) [rss] Scaling AI for everyone
+      Source: OpenAI Blog
+      Link: https://openai.com/index/scaling-ai-for-everyone
+
+  [4] (3pts) [github] openclaw v2026.2.26
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.2.26
+      Snippet: Changes - Highlight: External Secrets Management introduces a full openclaw secrets workflow (audit, configure, apply, reload) with runtime snapshot a
+
+  [5] (2pts) [rss] Current language model training leaves large parts of the internet on the table
+      Source: The Decoder
+      Link: https://the-decoder.com/current-language-model-training-leaves-large-parts-of-the-internet-on-the-table/
+
