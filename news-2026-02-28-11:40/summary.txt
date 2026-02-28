@@ -1,0 +1,92 @@
+=== Merged Data Summary ===
+Total articles: 322
+Topics: frontier-tech, llm, ai-agent, crypto
+
+=== frontier-tech (90 articles) ===
+
+  [1] (10pts) [rss] Please, please, please stop using passkeys for encrypting user data
+      Source: Hacker News Frontpage
+      Link: https://blog.timcappalli.me/p/passkeys-prf-warning/
+
+  [2] (10pts) [rss] An AI agent coding skeptic tries AI agent coding, in excessive detail
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything
+
+  [3] (8pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [4] (5pts) [rss] OpenAI Executes Agreement with Dept of War for Classified Environment Deployment
+      Source: Hacker News Frontpage
+      Link: https://twitter.com/sama/status/2027578652477821175
+
+  [5] (5pts) [rss] Anthropic says it will challenge Pentagon supply chain risk designation in court
+      Source: Hacker News Frontpage
+      Link: https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/
+
+=== llm (29 articles) ===
+
+  [1] (10pts) [rss] An AI agent coding skeptic tries AI agent coding, in excessive detail
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything
+
+  [2] (8pts) [rss] Nano Banana 2: Combining Pro capabilities with lightning-fast speed
+      Source: Google DeepMind Blog
+      Link: https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/
+
+  [3] (5pts) [rss] Free Claude Max for (large project) open source maintainers
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything
+
+  [4] (5pts) [rss] Unicode Explorer using binary search over fetch() HTTP range requests
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything
+
+  [5] (5pts) [rss] Joint Statement from OpenAI and Microsoft
+      Source: OpenAI Blog
+      Link: https://openai.com/index/continuing-microsoft-partnership
+
+=== ai-agent (21 articles) ===
+
+  [1] (10pts) [rss] An AI agent coding skeptic tries AI agent coding, in excessive detail
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything
+
+  [2] (5pts) [rss] Free Claude Max for (large project) open source maintainers
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything
+
+  [3] (5pts) [rss] Unicode Explorer using binary search over fetch() HTTP range requests
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything
+
+  [4] (5pts) [rss] Joint Statement from OpenAI and Microsoft
+      Source: OpenAI Blog
+      Link: https://openai.com/index/continuing-microsoft-partnership
+
+  [5] (5pts) [rss] Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock
+      Source: OpenAI Blog
+      Link: https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
+
+=== crypto (19 articles) ===
+
+  [1] (5pts) [rss] SEC is seeking to regain crypto ground following &#8216;missed opportunity,&#8217; Chairman Atkins s
+      Source: The Block
+      Link: https://www.theblock.co/post/391646/sec-is-seeking-to-regain-crypto-ground-following-missed-opportunity-chairman-atkins-says?utm_source=rss&amp;utm_medium=rss
+
+  [2] (5pts) [rss] Morgan Stanley doubles down on crypto, files for bank charter to custody digital assets and offer st
+      Source: The Block
+      Link: https://www.theblock.co/post/391641/morgan-stanley-doubles-down-on-crypto-files-for-bank-charter-to-custody-digital-assets-and-offer-staking-bloomberg?utm_source=rss&amp;utm_medium=rss
+
+  [3] (5pts) [rss] Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft
+      Source: The Block
+      Link: https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft?utm_source=rss&amp;utm_medium=rss
+
+  [4] (5pts) [rss] U.S. Senate Democrats asked Treasury, DOJ to probe Binance's illicit finance controls
+      Source: CoinDesk
+      Link: https://www.coindesk.com/policy/2026/02/27/u-s-senate-democrats-asked-treasury-doj-to-probe-binance-s-illicit-finance-controls
+
+  [5] (5pts) [rss] Coinbase’s head of litigation says states are 'gaslighting' on prediction markets
+      Source: CoinDesk
+      Link: https://www.coindesk.com/coindesk-news/2026/02/27/coinbase-s-head-of-litigation-says-states-are-gaslighting-on-prediction-markets
+
