@@ -1,0 +1,93 @@
+=== Merged Data Summary ===
+Total articles: 181
+Topics: frontier-tech, crypto, llm, ai-agent
+
+=== frontier-tech (59 articles) ===
+
+  [1] (10pts) [rss] Our Agreement with the Department of War
+      Source: Hacker News Frontpage
+      Link: https://openai.com/index/our-agreement-with-the-department-of-war
+
+  [2] (10pts) [rss] The whole thing was a scam
+      Source: Hacker News Frontpage
+      Link: https://garymarcus.substack.com/p/the-whole-thing-was-scam
+
+  [3] (5pts) [rss] Why is the first C++ (m)allocation always 72 KB?
+      Source: Hacker News Frontpage
+      Link: https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/
+
+  [4] (5pts) [rss] Show HN: Terminal-Style Portfolio on the Internet
+      Source: Hacker News Frontpage
+      Link: https://kuber.studio/
+
+  [5] (5pts) [rss] Intelligence is a commodity. Context is the real AI Moat
+      Source: Hacker News Frontpage
+      Link: https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity
+
+=== crypto (13 articles) ===
+
+  [1] (7pts) [github] foundry nightly-185341cc30421b2e2e0cf24af7e8a1a1fd0041e7
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-185341cc30421b2e2e0cf24af7e8a1a1fd0041e7
+      Snippet: Other - chore: use fs::write_pretty_json_file in ScriptSequence::save (#13562) by @MarkFizz77 - fix(forge): apply --access-list in forge create (#1355
+
+  [2] (5pts) [rss] Ether, solana, xrp surge up to 10% as majors recover Saturday's war-driven losses
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/03/01/ether-solana-xrp-surge-up-to-10-as-majors-recover-saturday-s-war-driven-losses
+
+  [3] (5pts) [rss] Polymarket attracts record trading 'world' volumes as U.S.-Iran bets top $529 million
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/03/01/polymarket-attracts-record-trading-world-volumes-as-u-s-iran-bets-top-usd529-million
+
+  [4] (5pts) [rss] Bitcoin tops $68,000 after Iran confirms leader killed in U.S., Israel airstrikes
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/03/01/bitcoin-tops-usd68-000-after-iran-confirms-leader-killed-in-u-s-israel-airstrikes
+
+  [5] (5pts) [rss] Developer embeds image on Bitcoin as a single transaction, challenging BIP-110&#8217;s core claims
+      Source: The Block
+      Link: https://www.theblock.co/post/391667/developer-embeds-image-on-bitcoin-as-a-single-transaction-challenging-bip-110s-core-claims?utm_source=rss&amp;utm_medium=rss
+
+=== llm (13 articles) ===
+
+  [1] (5pts) [rss] Quoting claude.com/import-memory
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything
+
+  [2] (5pts) [rss] Interactive explanations
+      Source: Simon Willison
+      Link: https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
+
+  [3] (5pts) [rss] NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models
+      Source: NVIDIA AI Blog
+      Link: https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/
+
+  [4] (5pts) [rss] NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation
+      Source: NVIDIA AI Blog
+      Link: https://blogs.nvidia.com/blog/software-defined-ai-ran/
+
+  [5] (2pts) [rss] [R] Tiny transformers (&lt;100 params) can add two 10-digit numbers to 100% accuracy
+      Source: r/MachineLearning
+      Link: https://www.reddit.com/r/MachineLearning/comments/1rh84o0/r_tiny_transformers_100_params_can_add_two/
+
+=== ai-agent (8 articles) ===
+
+  [1] (5pts) [rss] Quoting claude.com/import-memory
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything
+
+  [2] (5pts) [rss] Interactive explanations
+      Source: Simon Willison
+      Link: https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything
+
+  [3] (2pts) [rss] AI can link fake online names to real identities in minutes for just a few dollars
+      Source: The Decoder
+      Link: https://the-decoder.com/ai-can-link-fake-online-names-to-real-identities-in-minutes-for-just-a-few-dollars/
+
+  [4] (2pts) [rss] Moltbook&#039;s alleged AI civilization is just a massive void of bloated bot traffic
+      Source: The Decoder
+      Link: https://the-decoder.com/moltbooks-alleged-ai-civilization-is-just-a-massive-void-of-bloated-bot-traffic/
+
+  [5] (2pts) [rss] The Pentagon-OpenAI-Anthropic fallout comes down to three words: &quot;all lawful use&quot;
+      Source: The Decoder
+      Link: https://the-decoder.com/the-pentagon-openai-anthropic-fallout-comes-down-to-three-words-all-lawful-use/
+
