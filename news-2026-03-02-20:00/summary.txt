@@ -1,0 +1,95 @@
+=== Merged Data Summary ===
+Total articles: 183
+Topics: crypto, frontier-tech, llm, ai-agent
+
+=== crypto (13 articles) ===
+
+  [1] (7pts) [github] foundry nightly-d41efa28fb84305dcbef318a9caa791d86e2011f
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-d41efa28fb84305dcbef318a9caa791d86e2011f
+      Snippet: Other - chore(deps): weekly cargo update (#13565) by @github-actions[bot] - fix(cast): correct max_int boundary check for uint255 (#13568) by @zeropro
+
+  [2] (5pts) [rss] Bitcoin outperforms equities in risk-off session as Iran conflict enters third day
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/03/02/bitcoin-outperforms-equities-in-risk-off-session-as-iran-conflict-enters-third-day
+
+  [3] (5pts) [rss] U.S. equity futures fall in pre-market trading as oil, gold retreat from highs
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/03/02/u-s-equity-futures-fall-in-pre-market-trading-as-oil-gold-retreat-from-highs
+
+  [4] (5pts) [rss] Hong Kong links up with Shanghai trade authorities to put cargo data on blockchain
+      Source: CoinDesk
+      Link: https://www.coindesk.com/tech/2026/03/02/hong-kong-links-up-with-shanghai-trade-authorities-to-put-cargo-data-on-blockchain
+
+  [5] (5pts) [rss] Bitcoin treads water as war risk rises and rate cuts look distant: analysts
+      Source: The Block
+      Link: https://www.theblock.co/post/391724/bitcoin-treads-water-as-war-risk-rises-and-rate-cuts-look-distant-analysts?utm_source=rss&amp;utm_medium=rss
+
+=== frontier-tech (56 articles) ===
+
+  [1] (5pts) [rss] Microsoft bans the word "Microslop" on its Discord, then locks the server
+      Source: Hacker News Frontpage
+      Link: https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/
+
+  [2] (5pts) [rss] Jolla phone – a full-stack European alternative
+      Source: Hacker News Frontpage
+      Link: https://commerce.jolla.com/products/jolla-phone-sept-26
+
+  [3] (5pts) [rss] U.S. science agency moves to restrict foreign scientists from its labs
+      Source: Hacker News Frontpage
+      Link: https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs
+
+  [4] (5pts) [rss] /e/OS is a complete "deGoogled", mobile ecosystem
+      Source: Hacker News Frontpage
+      Link: https://e.foundation/e-os/
+
+  [5] (5pts) [rss] Show HN: Omni – Open-source workplace search and chat, built on Postgres
+      Source: Hacker News Frontpage
+      Link: https://github.com/getomnico/omni
+
+=== llm (14 articles) ===
+
+  [1] (5pts) [rss] Is AI already killing people by accident?
+      Source: Gary Marcus
+      Link: https://garymarcus.substack.com/p/is-ai-already-killing-people-by-accident
+
+  [2] (5pts) [github] ollama v0.17.5
+      Source: Ollama
+      Link: https://github.com/ollama/ollama/releases/tag/v0.17.5
+      Snippet: What's Changed Fixed crash in Qwen 3.5 models when split over GPU & CPU Fixed issue where Qwen 3.5 models would repeat themselves due to no presence p
+
+  [3] (3pts) [rss] NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models
+      Source: NVIDIA AI Blog
+      Link: https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/
+
+  [4] (3pts) [rss] NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation
+      Source: NVIDIA AI Blog
+      Link: https://blogs.nvidia.com/blog/software-defined-ai-ran/
+
+  [5] (3pts) [rss] Quoting claude.com/import-memory
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything
+
+=== ai-agent (8 articles) ===
+
+  [1] (5pts) [github] openclaw v2026.3.1
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.3.1
+      Snippet: Changes - Agents/Thinking defaults: set adaptive as the default thinking level for Anthropic Claude 4.6 models (including Bedrock Claude 4.6 refs) whi
+
+  [2] (3pts) [rss] Quoting claude.com/import-memory
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything
+
+  [3] (2pts) [rss] 官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由
+      Source: 量子位 QbitAI
+      Link: https://www.qbitai.com/2026/03/383235.html
+
+  [4] (2pts) [rss] OpenClaw最佳工具榜来了！这6款龙虾最受欢迎
+      Source: 量子位 QbitAI
+      Link: https://www.qbitai.com/2026/03/383023.html
+
+  [5] (2pts) [rss] Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型
+      Source: 量子位 QbitAI
+      Link: https://www.qbitai.com/2026/03/383020.html
+
