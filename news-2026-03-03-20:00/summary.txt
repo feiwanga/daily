@@ -1,0 +1,95 @@
+=== Merged Data Summary ===
+Total articles: 296
+Topics: ai-agent, crypto, frontier-tech, llm
+
+=== ai-agent (14 articles) ===
+
+  [1] (10pts) [github] openclaw v2026.3.2
+      Source: OpenClaw
+      Link: https://github.com/openclaw/openclaw/releases/tag/v2026.3.2
+      Snippet: Changes - Secrets/SecretRef coverage: expand SecretRef support across the full supported user-supplied credential surface (64 targets total), includin
+
+  [2] (10pts) [github] langchain langchain-huggingface==1.2.1
+      Source: LangChain
+      Link: https://github.com/langchain-ai/langchain/releases/tag/langchain-huggingface%3D%3D1.2.1
+      Snippet: Changes since langchain-huggingface==1.2.0 fix(huggingface): switch integration test provider to together (#35525) fix(huggingface): resolve huggingfa
+
+  [3] (5pts) [rss] This startup claims it can stop lightning and prevent catastrophic wildfires
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/
+
+  [4] (5pts) [rss] OpenAI’s &#8220;compromise&#8221; with the Pentagon is what Anthropic feared
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/
+
+  [5] (5pts) [rss] The Download: protesting AI, and what&#8217;s floating in space
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/
+
+=== crypto (18 articles) ===
+
+  [1] (7pts) [github] foundry nightly-5b6f3c8e64d46b9b9c421106e5281f53896733b7
+      Source: Foundry
+      Link: https://github.com/foundry-rs/foundry/releases/tag/nightly-5b6f3c8e64d46b9b9c421106e5281f53896733b7
+      Snippet: Other - fix(fmt): correct total_difficulty attribute name (#13578) by @eeemmmmmm - chore(evm): use AnyRpcTransaction in configure_tx_env/commit_transa
+
+  [2] (5pts) [rss] Bitcoin miner Core Scientific to sell bulk of BTC holdings in 2026 to fund AI pivot
+      Source: The Block
+      Link: https://www.theblock.co/post/391967/bitcoin-miner-core-scientific-to-sell-bulk-of-btc-holdings-in-2026-to-fund-ai-pivot?utm_source=rss&amp;utm_medium=rss
+
+  [3] (5pts) [rss] Marc Zeller&#8217;s ACI to leave Aave in July amid growing governance tensions
+      Source: The Block
+      Link: https://www.theblock.co/post/391872/aave-chan-initiative-marc-zeller-leave-governance-tensions?utm_source=rss&amp;utm_medium=rss
+
+  [4] (5pts) [rss] Riot, SBI Crypto reach $20 million settlement in Texas bitcoin mining dispute
+      Source: The Block
+      Link: https://www.theblock.co/post/391962/riot-sbi-crypto-reach-20-million-settlement-in-texas-bitcoin-mining-dispute?utm_source=rss&amp;utm_medium=rss
+
+  [5] (5pts) [rss] Dollar surge pressures crypto markets after escalation in Iran conflict
+      Source: CoinDesk
+      Link: https://www.coindesk.com/markets/2026/03/03/dollar-surge-pressures-crypto-and-gold-after-escalation-in-iran-conflict
+
+=== frontier-tech (74 articles) ===
+
+  [1] (5pts) [rss] What's new in Linux kernel for PostgreSQL
+      Source: Hacker News Frontpage
+      Link: https://erthalion.info/2026/02/03/new-linux-for-postgresql/
+
+  [2] (5pts) [rss] The Xkcd thing, now interactive
+      Source: Hacker News Frontpage
+      Link: https://editor.p5js.org/isohedral/full/vJa5RiZWs
+
+  [3] (5pts) [rss] The beauty and terror of modding Windows
+      Source: Hacker News Frontpage
+      Link: https://windowsread.me/p/windhawk-explained
+
+  [4] (5pts) [rss] Privacy-preserving age and identity verification via anonymous credentials
+      Source: Hacker News Frontpage
+      Link: https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/
+
+  [5] (5pts) [rss] AWS outage due to drone attacks in UAE
+      Source: Hacker News Frontpage
+      Link: https://www.bbc.com/news/articles/cgk28nj0lrjo
+
+=== llm (18 articles) ===
+
+  [1] (5pts) [rss] This startup claims it can stop lightning and prevent catastrophic wildfires
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/
+
+  [2] (5pts) [rss] OpenAI’s &#8220;compromise&#8221; with the Pentagon is what Anthropic feared
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/
+
+  [3] (5pts) [rss] The Download: protesting AI, and what&#8217;s floating in space
+      Source: MIT Technology Review
+      Link: https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/
+
+  [4] (5pts) [rss] GIF optimization tool using WebAssembly and Gifsicle
+      Source: Simon Willison
+      Link: https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything
+
+  [5] (5pts) [rss] February sponsors-only newsletter
+      Source: Simon Willison
+      Link: https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything
+
